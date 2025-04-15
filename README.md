@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Product%20Manager-Systems%20Thinker-6e40c9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning%20in%20Public-%F0%9F%93%9D%20GitHub%20as%20a%20Notebook-ff6f61?style=for-the-badge" />
-</p>
 # leonardo taquece
 product manager @Raízen • this GitHub is my sandbox
 
