@@ -1,16 +1,14 @@
-## Hi there 👋
+# Leonardo Taquece
 
-<!--
-**taquece/taquece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Manager focused on CRM, data and system-level thinking.
 
-Here are some ideas to get you started:
+This GitHub is my safe space to document side projects, learning logs, and technical notes that help me be a better PM — more effective with dev teams and grounded in system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What you'll find here:
+- Learning logs from exploring front-end, APIs, CRM systems and analytics tools
+- Notes on CRM architecture and integration patterns
+- Power BI dashboards and data structure breakdowns
+- Templates and artifacts from my product workflows (specs, templates, process diagrams)
+- Side projects (who knows, might code)
+
+Note: This isn’t a developer portfolio. It’s a working notebook of a technical-minded PM.
