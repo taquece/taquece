@@ -1,17 +1,18 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Product%20Manager-Systems%20Thinker-6e40c9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning%20in%20Public-%F0%9F%93%9D%20GitHub%20as%20a%20Notebook-ff6f61?style=for-the-badge" />
+</p>
 # leonardo taquece
-product manager @Raízen
-focused on CRM, data and system-level thinking.
-this GitHub is my sandbox — a place to explore, document and share.
+product manager @Raízen • this GitHub is my sandbox
 
 ## what you'll find here:
-- learning logs from exploring front-end, APIs, CRM systems and analytics tools
-- notes on CRM architecture and integration patterns
 - Power BI dashboards and data structure breakdowns
+- notes on CRM architecture and integration patterns
+- occasional side projects to put ideas into practice
+- learning logs on front-end, APIs, CRM systems & analytics tools
 - templates and artifacts from my product workflows (specs, templates, process diagrams)
-- side projects (who knows, might code)
 
-## 🛠
-
+## tools under the hood (of the products I manage)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
@@ -22,4 +23,4 @@ this GitHub is my sandbox — a place to explore, document and share.
 
 ---
 
-note: this isn’t a developer portfolio.
+note: *ceci n’est pas un portfolio*
